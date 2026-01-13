@@ -1,0 +1,6 @@
+2026-01-11 22:30:11.472 [info] Revived process, old id 28e3f89c44b9b7c918d42150baf64014-1 -> new id 1
+2026-01-11 22:30:11.525 [info] Expanding terminal instance, old id 28e3f89c44b9b7c918d42150baf64014-1 -> new id 1
+2026-01-11 22:30:11.731 [warning] Persistent process "1": Process had no disconnect runners but was an orphan
+2026-01-11 22:30:11.731 [info] Persistent process reconnection "1"
+2026-01-11 22:30:11.781 [error] Failed to set sticky bit on /tmp/ell-code-oss-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/ell-code-oss-zsh'
+2026-01-11 22:30:11.870 [info] Persistent process "1": Replaying 5071 chars and 1 size events

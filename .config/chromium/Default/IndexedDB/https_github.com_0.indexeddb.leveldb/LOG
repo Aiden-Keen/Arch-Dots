@@ -1,0 +1,6 @@
+2026/01/07-21:46:10.350 3719 Creating DB /home/ell/.config/chromium/Default/IndexedDB/https_github.com_0.indexeddb.leveldb since it was missing.
+2026/01/07-21:46:10.366 3719 Reusing MANIFEST /home/ell/.config/chromium/Default/IndexedDB/https_github.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/07-22:31:22.633 371b Level-0 table #5: started
+2026/01/07-22:31:22.640 371b Level-0 table #5: 890 bytes OK
+2026/01/07-22:31:22.649 371b Delete type=0 #3
+2026/01/07-22:31:22.649 371b Manual compaction at level-0 from (begin) .. (end); will stop at (end)

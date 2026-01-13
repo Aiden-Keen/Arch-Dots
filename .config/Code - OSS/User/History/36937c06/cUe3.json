@@ -1,0 +1,36 @@
+{
+  "workbench.colorTheme": "Bearded Theme Coffee Reversed",
+  "workbench.iconTheme": "material-icon-theme",
+  "telemetry.telemetryLevel": "off",
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorStyle": "block-outline",
+  "update.mode": "manual",
+  "update.showReleaseNotes": false,
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.autofetch": false,
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.stickyScroll.enabled": true,
+  "editor.minimap.enabled": false,
+  "editor.cursorSmoothCaretAnimation": "explicit",
+  "workbench.tree.indent": 20,
+  "editor.fontSize": 15,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "diffEditor.renderSideBySide": false,
+  "workbench.secondarySideBar.showLabels": false,
+  "workbench.activityBar.location": "top",
+  "diffEditor.ignoreTrimWhitespace": false
+}

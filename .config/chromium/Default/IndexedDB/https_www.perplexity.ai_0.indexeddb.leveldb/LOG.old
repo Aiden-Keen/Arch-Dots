@@ -1,0 +1,16 @@
+2026/01/11-01:36:11.185 eeb6 Reusing MANIFEST /home/ell/.config/chromium/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/11-01:36:11.186 eeb6 Recovering log #325
+2026/01/11-01:36:11.199 eeb6 Reusing old log /home/ell/.config/chromium/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb/000325.log 
+2026/01/11-01:36:25.095 eec4 Moved #326 to level-1 1004629 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2026/01/11-01:36:27.271 eeb7 Compacting 1@1 + 1@2 files
+2026/01/11-01:36:27.298 eeb7 Generated table #329@1: 285 keys, 930372 bytes
+2026/01/11-01:36:27.298 eeb7 Compacted 1@1 + 1@2 files => 930372 bytes
+2026/01/11-01:36:27.306 eeb7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/11-01:36:27.306 eeb7 Delete type=2 #326
+2026/01/11-01:36:27.306 eeb7 Delete type=2 #327
+2026/01/11-01:36:27.307 eeb7 Level-0 table #331: started
+2026/01/11-01:36:27.328 eeb7 Level-0 table #331: 1315375 bytes OK
+2026/01/11-01:36:27.338 eeb7 Delete type=0 #325
+2026/01/11-01:37:12.768 eeb7 Level-0 table #333: started
+2026/01/11-01:37:12.794 eeb7 Level-0 table #333: 1149441 bytes OK
+2026/01/11-01:37:12.804 eeb7 Delete type=0 #330

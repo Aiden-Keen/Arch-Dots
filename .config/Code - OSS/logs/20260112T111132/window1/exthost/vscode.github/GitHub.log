@@ -1,0 +1,4 @@
+2026-01-12 11:11:38.691 [info] Log level: Info
+2026-01-12 11:39:16.563 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_getCommitAuthor] Failed to get commit author for Aiden-Keen/AI-Content-Gen/f38793ea44295aa0df1da503b164709d4bc2aac4: TypeError: Cannot read properties of null (reading 'author')
+2026-01-12 11:41:07.946 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_getCommitAuthor] Failed to get commit author for Aiden-Keen/AI-Content-Gen/278be666805749fb721b1917c8ee4a01337d9ccf: TypeError: Cannot read properties of null (reading 'author')
+2026-01-12 11:56:20.430 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_getCommitAuthor] Failed to get commit author for Aiden-Keen/AI-Content-Gen/a3c6efaafeeb8f3983a5bfd98410890d9474f937: TypeError: Cannot read properties of null (reading 'author')

@@ -1,0 +1,33 @@
+2026/01/09-17:23:29.284 4526 Reusing MANIFEST /home/ell/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/09-17:23:29.284 4526 Recovering log #80
+2026/01/09-17:23:29.297 4526 Reusing old log /home/ell/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000080.log 
+2026/01/09-17:25:15.648 4526 Level-0 table #85: started
+2026/01/09-17:25:15.672 4526 Level-0 table #85: 1591787 bytes OK
+2026/01/09-17:25:15.683 4526 Delete type=0 #80
+2026/01/09-17:25:31.490 4525 Compacting 1@1 + 1@2 files
+2026/01/09-17:25:31.505 4525 Generated table #86@1: 914 keys, 39172 bytes
+2026/01/09-17:25:31.505 4525 Compacted 1@1 + 1@2 files => 39172 bytes
+2026/01/09-17:25:31.513 4525 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/09-17:25:31.513 4525 Delete type=2 #85
+2026/01/09-17:25:31.513 4525 Delete type=2 #82
+2026/01/09-17:28:12.635 4526 Level-0 table #88: started
+2026/01/09-17:28:12.664 4526 Level-0 table #88: 2088944 bytes OK
+2026/01/09-17:28:12.673 4526 Delete type=0 #84
+2026/01/09-17:35:50.955 4526 Compacting 1@1 + 1@2 files
+2026/01/09-17:35:50.981 4526 Generated table #89@1: 949 keys, 82577 bytes
+2026/01/09-17:35:50.981 4526 Compacted 1@1 + 1@2 files => 82577 bytes
+2026/01/09-17:35:50.989 4526 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/09-17:35:50.990 4526 Delete type=2 #88
+2026/01/09-17:35:50.990 4526 Delete type=2 #86
+2026/01/09-17:38:53.041 4526 Level-0 table #91: started
+2026/01/09-17:38:53.053 4526 Level-0 table #91: 411896 bytes OK
+2026/01/09-17:38:53.062 4526 Delete type=0 #87
+2026/01/09-17:38:53.063 4526 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2026/01/09-17:38:53.064 4526 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x07\x01 \x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x04\x02\x01\x17\x00s\x00e\x00r\x00v\x00i\x00c\x00e\x00:\x00t\x00o\x00p\x00b\x00a\x00r\x00:\x00f\x00a\x00l\x00l\x00b\x00a\x00c\x00k\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 69531 : 1
+2026/01/09-17:38:53.064 4526 Compacting 1@1 + 1@2 files
+2026/01/09-17:38:53.071 4526 Generated table #92@1: 948 keys, 58956 bytes
+2026/01/09-17:38:53.071 4526 Compacted 1@1 + 1@2 files => 58956 bytes
+2026/01/09-17:38:53.080 4526 compacted to: files[ 0 0 1 0 0 0 0 ]
+2026/01/09-17:38:53.081 4526 Delete type=2 #91
+2026/01/09-17:38:53.081 4526 Delete type=2 #89
+2026/01/09-17:38:53.081 4526 Manual compaction at level-1 from '\x00\x07\x01 \x03\x00\x00\x00\x00\x00\x00\xf0?\x00\x04\x02\x01\x17\x00s\x00e\x00r\x00v\x00i\x00c\x00e\x00:\x00t\x00o\x00p\x00b\x00a\x00r\x00:\x00f\x00a\x00l\x00l\x00b\x00a\x00c\x00k\x03\x00\x00\x00\x00\x00\x00\xf0?' @ 69531 : 1 .. (end); will stop at (end)

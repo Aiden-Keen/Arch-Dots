@@ -1,0 +1,35 @@
+[2026-01-04 17:50:44.730] Starting Git Graph ...
+[2026-01-04 17:50:44.737] Using git (version: 2.52.0)
+[2026-01-04 17:50:44.744] Started Git Graph - Ready to use!
+[2026-01-04 17:50:44.744] Searching workspace for new repos ...
+[2026-01-04 17:50:44.749] > git rev-parse --show-toplevel
+[2026-01-04 17:50:44.751] Added new repo: /home/ell/Documents/ai-content-gen
+[2026-01-04 17:50:44.752] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
+[2026-01-04 17:50:44.753] Completed searching workspace for new repos
+[2026-01-04 17:50:44.753] Showing "Git Graph" Status Bar Item
+[2026-01-04 17:51:29.585] Created Git Graph View
+[2026-01-04 17:51:29.791] > git branch -a --no-color
+[2026-01-04 17:51:29.796] > git remote
+[2026-01-04 17:51:29.801] > git reflog --format=... refs/stash --
+[2026-01-04 17:51:29.804] Started watching repo: /home/ell/Documents/ai-content-gen
+[2026-01-04 17:51:29.816] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2026-01-04 17:51:29.821] > git show-ref -d --head
+[2026-01-04 17:51:29.830] > git status --untracked-files=all --porcelain
+[2026-01-04 17:51:29.937] > git --no-pager config --list -z --includes
+[2026-01-04 17:51:29.942] > git --no-pager config --list -z --includes --local
+[2026-01-04 17:51:29.946] > git --no-pager config --list -z --includes --global
+[2026-01-04 17:51:46.108] > git -c log.showSignature=false log --max-count=301 --format=... --date-order dev-frontend --
+[2026-01-04 17:51:46.112] > git show-ref -d --head
+[2026-01-04 17:51:46.119] > git status --untracked-files=all --porcelain
+[2026-01-04 17:51:47.650] > git -c log.showSignature=false log --max-count=301 --format=... --date-order --branches --tags --remotes HEAD --
+[2026-01-04 17:51:47.655] > git show-ref -d --head
+[2026-01-04 17:51:47.662] > git status --untracked-files=all --porcelain
+[2026-01-04 17:52:33.750] > git -c log.showSignature=false show --quiet bad801dc4c8378635b7f73efd85e7685da793265 --format=...
+[2026-01-04 17:52:33.756] > git diff --name-status --find-renames --diff-filter=AMDR -z bad801dc4c8378635b7f73efd85e7685da793265^ bad801dc4c8378635b7f73efd85e7685da793265
+[2026-01-04 17:52:33.761] > git diff --numstat --find-renames --diff-filter=AMDR -z bad801dc4c8378635b7f73efd85e7685da793265^ bad801dc4c8378635b7f73efd85e7685da793265
+[2026-01-04 17:52:38.449] > git diff --name-status --find-renames --diff-filter=AMDR -z HEAD
+[2026-01-04 17:52:38.454] > git diff --numstat --find-renames --diff-filter=AMDR -z HEAD
+[2026-01-04 17:52:38.459] > git status -s --untracked-files=all --porcelain -z
+[2026-01-04 17:52:47.029] > git diff --name-status --find-renames --diff-filter=AMDR -z HEAD
+[2026-01-04 17:52:47.034] > git diff --numstat --find-renames --diff-filter=AMDR -z HEAD
+[2026-01-04 17:52:47.039] > git status -s --untracked-files=all --porcelain -z

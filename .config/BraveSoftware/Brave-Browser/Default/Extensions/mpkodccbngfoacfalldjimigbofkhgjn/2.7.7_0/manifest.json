@@ -1,0 +1,61 @@
+{
+   "action": {
+      "default_icon": {
+         "16": "images/logo16.png",
+         "32": "images/logo32.png",
+         "48": "images/logo48.png"
+      },
+      "default_title": "__MSG_appName__"
+   },
+   "background": {
+      "service_worker": "background.js",
+      "type": "module"
+   },
+   "commands": {
+      "launch-aria2": {
+         "description": "__MSG_startAria2Str__",
+         "suggested_key": {
+            "default": "Alt+X"
+         }
+      },
+      "toggle-capture": {
+         "description": "__MSG_toggleCapture__",
+         "suggested_key": {
+            "default": "Alt+A"
+         }
+      }
+   },
+   "content_security_policy": {
+      "extension_pages": "script-src 'self';object-src 'self';frame-src 'self' aria2://* https://*.aria2e.com/;"
+   },
+   "default_locale": "en",
+   "description": "__MSG_description__",
+   "externally_connectable": {
+      "ids": [ "*" ]
+   },
+   "homepage_url": "https://aria2e.com",
+   "host_permissions": [ "\u003Call_urls>" ],
+   "icons": {
+      "128": "images/logo128.png",
+      "16": "images/logo16.png",
+      "32": "images/logo32.png",
+      "48": "images/logo48.png"
+   },
+   "incognito": "split",
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAhKJQ7VP+GZ+alH/gWZvICdczME++rP8DiKKZcJ6nn4l8KjP7UhlQ7W/7VA+riW7a7OEHKEVyUUt1uOSl1jXAaHeuWIanpdfl9Ubf4Im93HDGuBn4hCmfgwOSy4ETKPj/K3sQVkBY9g0tpluHqQpJ5723A62L4Ni0923NX0WxjFiOAwuBd0SwCk1Zy2TgOpj7YA23tp6STKSVrLKV10n1l7g86lvxINXJALAp4RXE70jL/t4o9AyYUyTrVMkdfLOhdORODPUI0F+S3YcoiuH11lVhkdLW7tBbFx8/7EQlzLCVJymoAJEQMJaqb23L2ETsWMVAlZbvPUbt/EBRqKhqUQIDAQAB",
+   "manifest_version": 3,
+   "minimum_chrome_version": "116.0.0",
+   "name": "__MSG_appName__",
+   "options_page": "options.html",
+   "permissions": [ "cookies", "tabs", "notifications", "contextMenus", "downloads", "storage", "system.display", "scripting", "sidePanel", "power" ],
+   "short_name": "A2E",
+   "side_panel": {
+      "default_path": "ui/ariang/index.html"
+   },
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "2.7.7",
+   "web_accessible_resources": [ {
+      "matches": [ "\u003Call_urls>" ],
+      "resources": [ "js/magnet.js", "magnet.html", "ui/ariang/logo512m.png" ]
+   } ]
+}

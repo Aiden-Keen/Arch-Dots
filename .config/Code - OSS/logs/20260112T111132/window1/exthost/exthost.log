@@ -1,0 +1,92 @@
+2026-01-12 11:11:35.701 [info] Extension host with pid 2989 started
+2026-01-12 11:11:35.701 [info] Skipping acquiring lock for /home/ell/.config/Code - OSS/User/workspaceStorage/28e3f89c44b9b7c918d42150baf64014.
+2026-01-12 11:11:35.899 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-01-12 11:11:35.952 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: false, activationEvent: 'onFileSystem:git', root cause: vscode.git
+2026-01-12 11:11:36.016 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'onFileSystem:git'
+2026-01-12 11:11:36.242 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-01-12 11:11:36.243 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2026-01-12 11:11:36.314 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2026-01-12 11:11:36.428 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2026-01-12 11:11:36.628 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-01-12 11:11:36.921 [info] ExtensionService#_doActivateExtension vscode.terminal-suggest, startup: false, activationEvent: 'onTerminalShellIntegration:*'
+2026-01-12 11:11:37.241 [info] Eager extensions activated
+2026-01-12 11:11:37.276 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-01-12 11:11:37.281 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-01-12 11:11:37.312 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2026-01-12 11:11:37.375 [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onStartupFinished'
+2026-01-12 11:11:38.300 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2026-01-12 11:11:38.404 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2026-01-12 11:11:38.425 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2026-01-12 11:11:38.759 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2026-01-12 11:11:38.991 [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense, startup: false, activationEvent: 'onLanguage:typescriptreact'
+2026-01-12 11:11:44.416 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-01-12 11:11:44.428 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2026-01-12 11:11:44.501 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2026-01-12 12:22:53.327 [info] ExtensionService#_doActivateExtension Gruntfuggly.todo-tree, startup: false, activationEvent: 'onStartupFinished'
+2026-01-12 12:24:55.921 [error] TypeError: Class constructor Ku cannot be invoked without 'new'
+    at p (/home/ell/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+    at /home/ell/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+    at Array.forEach (<anonymous>)
+    at Timeout.k [as _onTimeout] (/home/ell/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+    at listOnTimeout (node:internal/timers:590:11)
+    at processTimers (node:internal/timers:523:7)
+2026-01-12 12:24:58.429 [error] TypeError: Class constructor Ku cannot be invoked without 'new'
+    at p (/home/ell/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+    at /home/ell/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+    at Array.forEach (<anonymous>)
+    at Timeout.k [as _onTimeout] (/home/ell/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+    at listOnTimeout (node:internal/timers:590:11)
+    at processTimers (node:internal/timers:523:7)
+2026-01-12 12:25:00.058 [error] TypeError: Class constructor Ku cannot be invoked without 'new'
+    at p (/home/ell/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+    at /home/ell/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+    at Array.forEach (<anonymous>)
+    at Timeout.k [as _onTimeout] (/home/ell/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+    at listOnTimeout (node:internal/timers:590:11)
+    at processTimers (node:internal/timers:523:7)
+2026-01-12 12:25:01.335 [error] TypeError: Class constructor Ku cannot be invoked without 'new'
+    at p (/home/ell/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+    at /home/ell/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+    at Array.forEach (<anonymous>)
+    at Timeout.k [as _onTimeout] (/home/ell/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+    at listOnTimeout (node:internal/timers:590:11)
+    at processTimers (node:internal/timers:523:7)
+2026-01-12 12:25:02.818 [error] TypeError: Class constructor Ku cannot be invoked without 'new'
+    at p (/home/ell/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+    at /home/ell/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+    at Array.forEach (<anonymous>)
+    at Timeout.k [as _onTimeout] (/home/ell/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+    at listOnTimeout (node:internal/timers:590:11)
+    at processTimers (node:internal/timers:523:7)
+2026-01-12 12:25:04.261 [error] TypeError: Class constructor Ku cannot be invoked without 'new'
+    at p (/home/ell/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+    at /home/ell/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+    at Array.forEach (<anonymous>)
+    at Timeout.k [as _onTimeout] (/home/ell/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+    at listOnTimeout (node:internal/timers:590:11)
+    at processTimers (node:internal/timers:523:7)
+2026-01-12 12:25:05.934 [error] TypeError: Class constructor Ku cannot be invoked without 'new'
+    at p (/home/ell/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:15012)
+    at /home/ell/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18316
+    at Array.forEach (<anonymous>)
+    at Timeout.k [as _onTimeout] (/home/ell/.vscode-oss/extensions/gruntfuggly.todo-tree-0.0.215-universal/dist/extension.js:99:18289)
+    at listOnTimeout (node:internal/timers:590:11)
+    at processTimers (node:internal/timers:523:7)
+2026-01-12 12:25:50.239 [info] Extension host terminating: renderer closed the MessagePort
+2026-01-12 12:25:50.270 [error] An error occurred when disposing the subscriptions for extension 'Gruntfuggly.todo-tree':
+2026-01-12 12:25:50.271 [error] AggregateError: Encountered errors while disposing of store
+    at Zi (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:25:822)
+    at oL.b (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:15172)
+    at oL.dispose (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:25:1227)
+    at HX.eb (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:12045)
+    at file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:10000
+    at Array.map (<anonymous>)
+    at HX.$ (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:9988)
+    at HX.terminate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:120:10231)
+    at yN.terminate (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:122:914)
+    at Us (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:404:11129)
+    at MessagePortMain.<anonymous> (file:///usr/lib/code/out/vs/workbench/api/node/extensionHostProcess.js:404:7604)
+    at MessagePortMain.emit (node:events:519:28)
+    at MessagePortMain.emit (node:domain:489:12)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2959)
+2026-01-12 12:25:50.284 [info] Extension host with pid 2989 exiting with code 0

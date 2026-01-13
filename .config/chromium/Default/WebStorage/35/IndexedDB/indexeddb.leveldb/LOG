@@ -1,0 +1,6 @@
+2026/01/07-12:28:32.787 560 Creating DB /home/ell/.config/chromium/Default/WebStorage/35/IndexedDB/indexeddb.leveldb since it was missing.
+2026/01/07-12:28:32.804 560 Reusing MANIFEST /home/ell/.config/chromium/Default/WebStorage/35/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2026/01/07-12:28:47.034 561 Level-0 table #5: started
+2026/01/07-12:28:47.041 561 Level-0 table #5: 23185 bytes OK
+2026/01/07-12:28:47.051 561 Delete type=0 #3
+2026/01/07-12:28:47.051 561 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

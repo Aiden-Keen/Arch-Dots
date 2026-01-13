@@ -1,0 +1,350 @@
+{
+   "Acknowledgment": {
+      "message": "謝辞"
+   },
+   "Aria2ManagerPromotionDes": {
+      "message": "Aria2 Managerはインストールされていないようですが、詳細については、Alex推奨チャネルにアクセスしてください？"
+   },
+   "AutoDownloadCookiesTooltipDes": {
+      "message": "関連するウェブサイトのクッキーは、自動ダウンロードまたは直接エクスポート時には添付されません。"
+   },
+   "BlackListStr": {
+      "message": "ブロックリスト"
+   },
+   "ClearSettingsDes": {
+      "message": "すべての設定をクリアすることを確認しますか？"
+   },
+   "ColorMode": {
+      "message": "カラーモード"
+   },
+   "DarkMode": {
+      "message": "ダークモード"
+   },
+   "Dismiss": {
+      "message": "閉鎖"
+   },
+   "FollowSystem": {
+      "message": "システムに従う"
+   },
+   "IconOffStyleStr": {
+      "message": "インターセプトオフ状態アイコン"
+   },
+   "LightMode": {
+      "message": "ライトモード"
+   },
+   "ManualDownloadCookiesTooltipDes": {
+      "message": "ダウンロード設定を尋ねる際に、関連するウェブサイトのクッキーを削除するかどうかを決定する必要があります。"
+   },
+   "Mark": {
+      "message": "マークする"
+   },
+   "MarkAsInsecureTip": {
+      "message": "安全でないRPCプロトコルとしてマークする"
+   },
+   "MarkAsSecureTip": {
+      "message": "安全なRPCプロトコルとしてマークする"
+   },
+   "Name": {
+      "message": "名前"
+   },
+   "NeverRemind": {
+      "message": "再度思い出させない"
+   },
+   "OverwriteAriaNgRpcWarn": {
+      "message": "RPC設定が変更されました。AriaNGに同期しますか？"
+   },
+   "RemindCaptureTip": {
+      "message": "他の拡張機能のダウンロードをキャプチャしました"
+   },
+   "RemindCaptureTipDes": {
+      "message": "ファイル名が異常な場合は自動キャプチャをオフにしてください。"
+   },
+   "Reset": {
+      "message": "リセット"
+   },
+   "RpcUrlTooltipWarnDes": {
+      "message": "セキュリティキーおよび関連するウェブサイトのクッキーが公共ネットワーク上で潜在的にさらされる可能性があるため、安全でないHTTP/WebSocketプロトコルを使用してダウンロードすることは避けるべきです。"
+   },
+   "Save": {
+      "message": "保存"
+   },
+   "SecretKey": {
+      "message": "秘密鍵"
+   },
+   "WebUIOpenStyle1": {
+      "message": "ポップアップ"
+   },
+   "WebUIOpenStyle2": {
+      "message": "新しいタブ"
+   },
+   "WebUIOpenStyle3": {
+      "message": "新しいウィンドウ"
+   },
+   "WebUIOpenStyle4": {
+      "message": "サイドパネル"
+   },
+   "WebUIOpenStyleStr": {
+      "message": "AriaNGで開く"
+   },
+   "addToBlackListStr": {
+      "message": "現在のURL -> ブロックリスト"
+   },
+   "addToWhiteListStr": {
+      "message": "現在のURL -> 許可リスト"
+   },
+   "allowExternalRequestDes": {
+      "message": "他の拡張機能からのダウンロードリクエストを受信する"
+   },
+   "allowNotificationDes": {
+      "message": "タスクステータス通知"
+   },
+   "allowedExtsPlaceholderDes": {
+      "message": "キャプチャまたはエクスポートするファイルの種類を設定します。1行に1つの拡張子、* はすべてを意味します。\n（許可リストの優先度が高いです）"
+   },
+   "allowedSitesPlaceholderDes": {
+      "message": "インターセプトするドメインまたは拡張機能IDを設定します。1行に1つ、正規表現がサポートされています。（許可リストの優先度が高いです）"
+   },
+   "appName": {
+      "message": "Aria2 Explorer"
+   },
+   "askBeforeDownloadDes": {
+      "message": "自動ダウンロード前に詳細設定を確認する"
+   },
+   "askBeforeExportDes": {
+      "message": "エクスポート前に詳細設定を確認する"
+   },
+   "badgeTextDes": {
+      "message": "アイコンバッジでタスクの量をマークする"
+   },
+   "blockedExtsPlaceholderDes": {
+      "message": "キャプチャまたはエクスポートしたくないファイルの種類を1行に1つの拡張子で設定します。* はすべてを意味します。"
+   },
+   "blockedSitesPlaceholderDes": {
+      "message": "インターセプトから除外するドメインまたは拡張機能IDを設定します。1行に1つ、正規表現がサポートされています。* はすべてを意味します。"
+   },
+   "captureMagnetDes": {
+      "message": "マグネットリンクをキャプチャする"
+   },
+   "captureMagnetTip": {
+      "message": "システムレベルのインターセプトが必要ない場合は、Windows で UAC ダイアログ ボックスが表示されたら、[いいえ] をクリックします。"
+   },
+   "captureMagnetWarn": {
+      "message": "OSレベルのキャプチャ、アンインストール前に無効にすることを確認してください"
+   },
+   "checkAltClickDes": {
+      "message": "Altキーを押してダウンロードのインターセプトを防止"
+   },
+   "checkAltClickTip": {
+      "message": "Altキーを押しながらリンクをクリックしたときにダウンロードのインターセプトを防止します。新しい設定はページを更新した後に有効になります。"
+   },
+   "configCloudSync": {
+      "message": "クラウド同期"
+   },
+   "configCloudSyncDes": {
+      "message": "AriaNgと拡張機能の設定を現在ログインしているブラウザアカウントに同期する"
+   },
+   "configImportExportDes": {
+      "message": "拡張機能の設定をバックアップ・復元"
+   },
+   "configImportExportStr": {
+      "message": "設定のインポート/エクスポート"
+   },
+   "configPageTitle": {
+      "message": "拡張オプション設定"
+   },
+   "connected": {
+      "message": "接続されました"
+   },
+   "contextmenuDes": {
+      "message": "コンテキストメニューからタスクをエクスポート"
+   },
+   "contextmenuStr": {
+      "message": "コンテキストメニュー"
+   },
+   "contextmenuTitle": {
+      "message": "エクスポート "
+   },
+   "description": {
+      "message": "ダウンロードを高速化するためにAria2を使用し、ダウンロードタスクを簡単に管理します。"
+   },
+   "disconnected": {
+      "message": "切断されました"
+   },
+   "download": {
+      "message": "ダウンロード"
+   },
+   "downloadCaptureDes": {
+      "message": "Aria2 はダウンロード タスクを自動的にキャプチャします，ファイルサイズが"
+   },
+   "downloadCaptureStr": {
+      "message": "ダウンロードキャプチャ"
+   },
+   "downloadComplete": {
+      "message": "$rpcName$ ダウンロードが完了しました。",
+      "placeholders": {
+         "rpcName": {
+            "content": "$1",
+            "example": "Aria2"
+         }
+      }
+   },
+   "downloadConfigFailed": {
+      "message": "設定のダウンロードに失敗しました：データが無効またはネットワークが切断されています。"
+   },
+   "downloadConfigSucceed": {
+      "message": "設定をダウンロードしました。"
+   },
+   "downloadError": {
+      "message": "$rpcName$ ダウンロードエラーが発生しました。",
+      "placeholders": {
+         "rpcName": {
+            "content": "$1",
+            "example": "Aria2"
+         }
+      }
+   },
+   "downloadLocation": {
+      "message": "ダウンロード場所"
+   },
+   "downloadStart": {
+      "message": "$rpcName$ ダウンロードが開始されました。",
+      "placeholders": {
+         "rpcName": {
+            "content": "$1",
+            "example": "Aria2"
+         }
+      }
+   },
+   "exportAllDes": {
+      "message": "すべてのリンクをエクスポート"
+   },
+   "exportAllFailedDes": {
+      "message": "有効なダウンロードリンクが見つかりません。"
+   },
+   "exportConfig": {
+      "message": "設定をエクスポート"
+   },
+   "exportConfigSuccess": {
+      "message": "設定のエクスポートが成功しました"
+   },
+   "exportFailedDes": {
+      "message": "$rpcName$ はタスクを開始できませんでした！",
+      "placeholders": {
+         "rpcName": {
+            "content": "$1",
+            "example": "Aria2 RPC name."
+         }
+      }
+   },
+   "exportFailedStr": {
+      "message": "エクスポートに失敗しました"
+   },
+   "exportSucceedDes": {
+      "message": "$rpcName$ がダウンロードを開始しました。",
+      "placeholders": {
+         "rpcName": {
+            "content": "$1",
+            "example": "Aria2 RPC name."
+         }
+      }
+   },
+   "exportSucceedStr": {
+      "message": "エクスポートに成功しました"
+   },
+   "fileExtStr": {
+      "message": "ファイル拡張子"
+   },
+   "finish": {
+      "message": "完了"
+   },
+   "importConfig": {
+      "message": "設定をインポート"
+   },
+   "importConfigConfirm": {
+      "message": "設定をインポートしますか？現在の設定がすべて上書きされます。"
+   },
+   "importConfigFailed": {
+      "message": "設定のインポートに失敗しました"
+   },
+   "importConfigSuccess": {
+      "message": "設定のインポートが成功しました"
+   },
+   "keepAwakeDes": {
+      "message": "ダウンロード中にシステムを起動したままにする"
+   },
+   "keepSilentDes": {
+      "message": "通知をサイレントにする"
+   },
+   "monitorAllDes": {
+      "message": "すべてのAria2を監視する"
+   },
+   "monitorAllTip": {
+      "message": "複数のAria2が設定されている場合、すべてのAria2の状態を監視し、結果を集約します。"
+   },
+   "monitorAria2Des": {
+      "message": "Aria 2ダウンロード状態の監視"
+   },
+   "monitorAria2Str": {
+      "message": "Aria 2状態の監視"
+   },
+   "openWebUIStr": {
+      "message": "AriaNGを開く"
+   },
+   "removeFromBlackListStr": {
+      "message": "ブロックリストから削除"
+   },
+   "removeFromWhiteListStr": {
+      "message": "許可リストから削除"
+   },
+   "review": {
+      "message": "評価"
+   },
+   "reviewDes": {
+      "message": "評価する！"
+   },
+   "seedingOver": {
+      "message": "$rpcName$ シーディングが終了しました。",
+      "placeholders": {
+         "rpcName": {
+            "content": "$1",
+            "example": "Aria2"
+         }
+      }
+   },
+   "selectDefaultRpcStr": {
+      "message": "デフォルトAria2"
+   },
+   "startAria2Str": {
+      "message": "スタートAria2"
+   },
+   "taskNotification": {
+      "message": "タスクの通知"
+   },
+   "toggleCapture": {
+      "message": "ダウンロードキャプチャの切り替え"
+   },
+   "upload": {
+      "message": "アップロード"
+   },
+   "uploadConfigFailed": {
+      "message": "設定のアップロードに失敗しました："
+   },
+   "uploadConfigSucceed": {
+      "message": "設定をアップロードしました。"
+   },
+   "uploadConfigWarn": {
+      "message": "ローカルの設定データが無効または空ですが、続行しますか？"
+   },
+   "wait": {
+      "message": "待機"
+   },
+   "websiteFilterStr": {
+      "message": "Webサイトフィルタ"
+   },
+   "websiteStr": {
+      "message": "ウェブサイト"
+   },
+   "whiteListStr": {
+      "message": "許可リスト"
+   }
+}

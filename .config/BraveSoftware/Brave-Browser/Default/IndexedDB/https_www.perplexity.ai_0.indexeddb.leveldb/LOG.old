@@ -1,0 +1,42 @@
+2026/01/13-14:46:23.682 17c3 Reusing MANIFEST /home/ell/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb/MANIFEST-000001
+2026/01/13-14:46:23.682 17c3 Recovering log #539
+2026/01/13-14:46:23.702 17c3 Reusing old log /home/ell/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.perplexity.ai_0.indexeddb.leveldb/000539.log 
+2026/01/13-14:46:25.823 17b5 Compacting 3@0 + 1@1 files
+2026/01/13-14:46:25.840 17b5 Generated table #542@0: 1668 keys, 70965 bytes
+2026/01/13-14:46:25.840 17b5 Compacted 3@0 + 1@1 files => 70965 bytes
+2026/01/13-14:46:25.848 17b5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/13-14:47:06.489 17b5 Level-0 table #544: started
+2026/01/13-14:47:06.511 17b5 Level-0 table #544: 1177315 bytes OK
+2026/01/13-14:47:06.522 17b5 Delete type=2 #534
+2026/01/13-14:47:06.523 17b5 Delete type=2 #540
+2026/01/13-14:47:06.523 17b5 Delete type=2 #536
+2026/01/13-14:47:06.523 17b5 Delete type=2 #538
+2026/01/13-14:47:06.523 17b5 Delete type=0 #539
+2026/01/13-14:47:07.738 17b5 Compacting 1@0 + 1@1 files
+2026/01/13-14:47:07.754 17b5 Generated table #545@0: 1940 keys, 134304 bytes
+2026/01/13-14:47:07.754 17b5 Compacted 1@0 + 1@1 files => 134304 bytes
+2026/01/13-14:47:07.762 17b5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/13-14:47:07.762 17b5 Delete type=2 #542
+2026/01/13-14:47:07.762 17b5 Delete type=2 #544
+2026/01/13-14:47:08.027 17c3 Level-0 table #547: started
+2026/01/13-14:47:08.047 17c3 Level-0 table #547: 1063212 bytes OK
+2026/01/13-14:47:08.057 17c3 Delete type=0 #543
+2026/01/13-14:48:29.359 17b5 Compacting 1@1 + 1@2 files
+2026/01/13-14:48:29.386 17b5 Generated table #548@1: 360 keys, 1432725 bytes
+2026/01/13-14:48:29.386 17b5 Compacted 1@1 + 1@2 files => 1432725 bytes
+2026/01/13-14:48:29.397 17b5 compacted to: files[ 1 0 1 0 0 0 0 ]
+2026/01/13-14:48:29.397 17b5 Delete type=2 #545
+2026/01/13-14:48:29.397 17b5 Delete type=2 #522
+2026/01/13-14:49:00.222 17b7 Level-0 table #550: started
+2026/01/13-14:49:00.240 17b7 Level-0 table #550: 1156380 bytes OK
+2026/01/13-14:49:00.249 17b7 Delete type=0 #546
+2026/01/13-14:49:02.086 17b7 Level-0 table #552: started
+2026/01/13-14:49:02.105 17b7 Level-0 table #552: 1047522 bytes OK
+2026/01/13-14:49:02.117 17b7 Delete type=0 #549
+2026/01/13-14:56:40.338 17c3 Compacting 3@0 + 0@1 files
+2026/01/13-14:56:40.357 17c3 Generated table #553@0: 728 keys, 68652 bytes
+2026/01/13-14:56:40.358 17c3 Compacted 3@0 + 0@1 files => 68652 bytes
+2026/01/13-14:56:40.366 17c3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/01/13-14:56:40.366 17c3 Delete type=2 #550
+2026/01/13-14:56:40.366 17c3 Delete type=2 #547
+2026/01/13-14:56:40.366 17c3 Delete type=2 #552
