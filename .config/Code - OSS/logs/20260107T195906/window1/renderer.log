@@ -1,3 +1,0 @@
-2026-01-07 19:59:09.275 [info] Started local extension host with pid 13871.
-2026-01-07 19:59:12.371 [info] [perf] Render performance baseline is 42ms
-2026-01-07 20:25:45.549 [warning] [backup tracker] suspended, ignoring unregister event git:/home/ell/Documents/ai-content-gen/app/%28pages%29/layout.tsx.git?%7B%22path%22%3A%22%2Fhome%2Fell%2FDocuments%2Fai-content-gen%2Fapp%2F%28pages%29%2Flayout.tsx%22%2C%22ref%22%3A%22HEAD%22%7D 

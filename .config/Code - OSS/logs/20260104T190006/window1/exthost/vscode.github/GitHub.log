@@ -1,3 +1,0 @@
-2026-01-04 19:00:10.695 [info] Log level: Info
-2026-01-04 19:00:13.634 [warning] [GitHubBranchProtectionProvider][updateRepositoryBranchProtection] Failed to update repository branch protection: No GitHub authentication session available.
-2026-01-04 19:00:14.188 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_loadAssignableUsers] Failed to load assignable user(s) for Aiden-Keen/AI-Content-Gen: Error: No GitHub authentication session available.

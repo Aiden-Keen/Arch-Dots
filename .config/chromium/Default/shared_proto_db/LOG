@@ -1,9 +1,0 @@
-2026/01/13-16:42:43.941 4e5 Reusing MANIFEST /home/ell/.config/chromium/Default/shared_proto_db/MANIFEST-000001
-2026/01/13-16:42:43.941 4e5 Recovering log #7
-2026/01/13-16:42:43.942 4e5 Reusing old log /home/ell/.config/chromium/Default/shared_proto_db/000007.log 
-2026/01/13-16:51:52.706 4f3 Compacting 1@1 + 1@2 files
-2026/01/13-16:51:52.719 4f3 Generated table #10@1: 378 keys, 25806 bytes
-2026/01/13-16:51:52.719 4f3 Compacted 1@1 + 1@2 files => 25806 bytes
-2026/01/13-16:51:52.727 4f3 compacted to: files[ 0 0 1 0 0 0 0 ]
-2026/01/13-16:51:52.727 4f3 Delete type=2 #5
-2026/01/13-16:51:52.727 4f3 Delete type=2 #8

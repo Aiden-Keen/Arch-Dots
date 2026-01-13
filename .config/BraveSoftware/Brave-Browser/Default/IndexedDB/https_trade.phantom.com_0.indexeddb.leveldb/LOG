@@ -1,6 +1,0 @@
-2026/01/09-19:13:01.753 d0a1 Creating DB /home/ell/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_trade.phantom.com_0.indexeddb.leveldb since it was missing.
-2026/01/09-19:13:01.770 d0a1 Reusing MANIFEST /home/ell/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_trade.phantom.com_0.indexeddb.leveldb/MANIFEST-000001
-2026/01/09-19:13:04.548 d0a1 Level-0 table #5: started
-2026/01/09-19:13:04.554 d0a1 Level-0 table #5: 869 bytes OK
-2026/01/09-19:13:04.563 d0a1 Delete type=0 #3
-2026/01/09-19:13:04.563 d0a1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

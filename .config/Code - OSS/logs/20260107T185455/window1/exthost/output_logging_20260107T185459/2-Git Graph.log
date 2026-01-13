@@ -1,9 +1,0 @@
-[2026-01-07 18:54:59.720] Starting Git Graph ...
-[2026-01-07 18:54:59.743] Using git (version: 2.52.0)
-[2026-01-07 18:54:59.753] Started Git Graph - Ready to use!
-[2026-01-07 18:54:59.754] Searching workspace for new repos ...
-[2026-01-07 18:54:59.759] > git rev-parse --show-toplevel
-[2026-01-07 18:54:59.843] Added new repo: /home/ell/Documents/ai-content-gen
-[2026-01-07 18:54:59.844] Successfully set Visual Studio Code Context "git-graph:codiconsSupported" to "true"
-[2026-01-07 18:54:59.863] Completed searching workspace for new repos
-[2026-01-07 18:54:59.863] Showing "Git Graph" Status Bar Item

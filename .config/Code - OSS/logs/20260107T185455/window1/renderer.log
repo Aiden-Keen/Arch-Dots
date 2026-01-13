@@ -1,3 +1,0 @@
-2026-01-07 18:54:57.807 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
-2026-01-07 18:54:58.221 [info] Started local extension host with pid 19552.
-2026-01-07 18:55:00.822 [info] [perf] Render performance baseline is 36ms

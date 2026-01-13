@@ -1,6 +1,0 @@
-2026-01-04 17:50:40.107 [info] Getting Manifest... mhutchie.git-graph
-2026-01-04 17:50:40.937 [info] Installing extension: mhutchie.git-graph {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/ell/.vscode-oss/extensions/extensions.json","path":"/home/ell/.vscode-oss/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.107.1","date":"2025-12-19T12:27:49.310Z"}}
-2026-01-04 17:50:44.423 [info] Extension signature verification result for mhutchie.git-graph: Success. Executed: true. Duration: 1193ms.
-2026-01-04 17:50:44.500 [info] Extracted extension to file:///home/ell/.vscode-oss/extensions/mhutchie.git-graph-1.30.0-universal: mhutchie.git-graph
-2026-01-04 17:50:44.510 [info] Renamed to /home/ell/.vscode-oss/extensions/mhutchie.git-graph-1.30.0-universal
-2026-01-04 17:50:44.537 [info] Extension installed successfully: mhutchie.git-graph vscode-userdata:/home/ell/.vscode-oss/extensions/extensions.json

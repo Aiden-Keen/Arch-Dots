@@ -1,1 +1,0 @@
-2026-01-08 13:27:03.352 [error] Failed to set sticky bit on /tmp/ell-code-oss-zsh: Error: ENOENT: no such file or directory, chmod '/tmp/ell-code-oss-zsh'
