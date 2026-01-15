@@ -47,9 +47,9 @@ tooltip {
 
 #taskbar button,
 #workspaces button {
-    color: @color2;
+    color: @color4;
     box-shadow: none;
-	text-shadow: none;
+	  text-shadow: none;
     padding: 0px;
     border-radius: 9px;
     padding-left: 4px;
